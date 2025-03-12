@@ -15,7 +15,7 @@ Variables in PHP are containers for storing data. They’re easy to use, flexibl
 - Case-sensitive: `$name` ≠ `$Name`.
 
 ```php
-$name = "Grok";
+$name = "User";
 $age = 25;
 $price = 9.99;
 ```
@@ -37,12 +37,12 @@ These hold a single value.
 | **Boolean** | True or False                 | `$isActive = true;`     |
 
 ```php
-$string = "I’m Grok, built by xAI!";
+$string = "Welcome to PHP!";
 $integer = 2025;
 $float = 3.14;
 $boolean = false;
 
-echo $string; // Outputs: I’m Grok, built by xAI!
+echo $string; // Outputs: Welcome to PHP!
 ```
 
 ---
@@ -64,10 +64,10 @@ echo $fruits[1]; // Outputs: banana
 #### Object Example
 ```php
 class Robot {
-    public $name = "Grok";
+    public $name = "Bot";
 }
 $robot = new Robot();
-echo $robot->name; // Outputs: Grok
+echo $robot->name; // Outputs: Bot
 ```
 
 ---
@@ -109,7 +109,7 @@ echo gettype($value); // Outputs: double (alias for float)
 - **Debug**: Use `var_dump()` or `print_r()` for troubleshooting.
 
 ```php
-$userName = "Grok";
+$userName = "User";
 $isRobot = true;
 $scores = [90, 85, 95];
 
