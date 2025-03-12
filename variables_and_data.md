@@ -121,6 +121,6 @@ var_dump($scores); // Outputs: array(3) { [0]=> int(90) [1]=> int(85) [2]=> int(
 ## 🌐 Try It Out!
 Experiment with variables and data types in your PHP scripts. Combine them with loops or conditionals for dynamic magic!
 
-[➡️ Next: Control Structures](#control-structures)
+[➡️ Next: Control Structures](operators_and_expressions.md)
 
 ---
