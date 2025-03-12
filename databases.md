@@ -227,4 +227,4 @@ mysqli_stmt_close($stmt);
 ```
 
 ---
-[➡️ Next: Sessions, Cookies And FTP](session_cookies_ftp.md)
+[➡️ Next: Sessions, Cookies And FTP](sessions_cookies_ftp.md)
