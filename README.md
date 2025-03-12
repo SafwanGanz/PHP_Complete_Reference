@@ -1,7 +1,7 @@
 
 # 🚀 Introduction to PHP
 
-![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg)  
+![PHP Logo](https://i.ibb.co/0RNyyLnW/php-bg.png)  
 **PHP: Hypertext Preprocessor** - A powerful, server-side scripting language for building dynamic and interactive web applications.
 
 ---
