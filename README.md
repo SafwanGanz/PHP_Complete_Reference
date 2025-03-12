@@ -49,7 +49,7 @@ Run it on your server and visit `http://localhost/index.php`!
 
 ### Variables
 ```php
-$name = "Grok";
+$name = "Robin";
 $year = 2025;
 echo "Hello, $name in $year!";
 ```
