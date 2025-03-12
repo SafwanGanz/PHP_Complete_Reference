@@ -94,5 +94,7 @@ for ($i = 1; $i <= 5; $i++) {
 
 ---
 
-
+<a href="" style="text-decoration: none;">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Next</button>
+</a>
 
