@@ -94,5 +94,5 @@ for ($i = 1; $i <= 5; $i++) {
 
 ---
 
-[➡️ Next: Variables and data](#variables_and_data.md)
+[➡️ Next: Variables and data](variables_and_data.md)
 
