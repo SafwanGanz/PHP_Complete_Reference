@@ -207,6 +207,6 @@ foreach ($items as $index => $item) {
 ## 🌐 Try It Out!
 Control structures are your key to dynamic PHP code. Experiment with conditions and loops to see the magic unfold!
 
-[➡️ Next: Functions](#functions)
+[➡️ Next: Functions](functions.md)
 
 ---
