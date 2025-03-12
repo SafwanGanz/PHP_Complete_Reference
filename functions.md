@@ -262,5 +262,5 @@ function formatName($first, $last) {
 }
 echo formatName("john", "doe"); // Outputs: John Doe
 ```
-
+[➡️ Next: Reading data](reading_data.md)
 ---
