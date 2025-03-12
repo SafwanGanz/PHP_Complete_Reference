@@ -294,4 +294,4 @@ echo $user->getId(); // Outputs: 123
 ```
 
 ---
-[➡️ Next: Advanced Object-Oriented Programming](advanced_object-oriented.md)
+[➡️ Next: Advanced Object-Oriented Programming](advanced_object_oriented.md)
