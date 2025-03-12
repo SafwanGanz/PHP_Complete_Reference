@@ -144,6 +144,6 @@ echo $result; // Outputs: Different
 ## 🌐 Try It Out!
 Play with operators and expressions to manipulate data. Next, explore how to control flow with them!
 
-[➡️ Next: Control Structures](#control-structures)
+[➡️ Next: Control Structures](control-structures)
 
 ---
